@@ -1,0 +1,29 @@
+.searchBar{
+  border-radius: 10px;
+  margin-left: 0.5rem;
+}
+
+.header{
+  height: 45px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.addItem{
+  margin-right: 0.5rem;
+}
+
+.containerBody{
+  padding: 2rem;
+  border-radius:10px;
+}
+
+.addBtn{
+  display: flex;
+  justify-content: flex-end;
+}
+.cancelBtn{
+  margin-right: 1rem;
+}
