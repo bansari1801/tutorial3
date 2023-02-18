@@ -1,0 +1,40 @@
+.registerForm{
+  width:50%;
+  margin:auto;
+  background-color: white;
+  border-radius:10px;
+  padding-bottom:1px;
+}
+
+.ant-form-item-explain-error{
+  text-align: left;
+}
+
+.submitBtn{
+  color:black;
+  width:100%;
+  display:flex;
+  justify-content: flex-end;
+}
+
+.ant-btn-primary{
+  background-color:#622963
+}
+
+.profilePage{
+  width:50%;
+  margin:auto;
+  margin-top:10%;
+}
+
+p{
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.ant-card .ant-card-head-title{
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #622963;
+  color:white;
+}
